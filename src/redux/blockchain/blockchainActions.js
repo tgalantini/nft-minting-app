@@ -61,7 +61,7 @@ export const connect = () => {
           method: "net_version",
         });
         if (networkId == CONFIG.NETWORK.ID) {
-          const SmartContractObj = new Web3EthContract(
+          const SmartContractObj = new Web3.eth.Contract(
             abi,
             CONFIG.CONTRACT_ADDRESS
           );
