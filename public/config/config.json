@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xcf6DC3C81dCCAaedB111B38DEBBA8a21c3996664",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xcf6dc3c81dccaaedb111b38debba8a21c3996664#writeContract",
+  "CONTRACT_ADDRESS": "0xd0cf97B30cDEA32b7838dd2Fb6086cb5D35E69bA",
+  "SCAN_LINK": "https://etherscan.io/address/0xd0cf97b30cdea32b7838dd2fb6086cb5d35e69ba",
   "NETWORK": {
-    "NAME": "rinkeby",
+    "NAME": "mainnet",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Etherfaces",
   "SYMBOL": "ETHR",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.006,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/etherfaces-official",
   "SHOW_BACKGROUND": true
 }
