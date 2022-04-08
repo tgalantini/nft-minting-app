@@ -203,7 +203,7 @@ function App() {
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
         <a href={"https://www.etherfaces.site/"}>
-          <StyledLogo alt={"logo"} src={"/config/images/logo_new.png"} />
+          <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
         </a>
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
