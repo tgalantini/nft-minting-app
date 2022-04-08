@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Etherfaces",
   "SYMBOL": "ETHR",
-  "MAX_SUPPLY": 100,
+  "MAX_SUPPLY": 8888,
   "WEI_COST": 6000000000000000,
   "DISPLAY_COST": 0.006,
   "GAS_LIMIT": 285000,
