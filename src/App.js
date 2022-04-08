@@ -202,7 +202,7 @@ function App() {
         style={{ padding: 24, backgroundColor: "var(--primary)" }}
         image={CONFIG.SHOW_BACKGROUND ? "/config/images/bg.png" : null}
       >
-        <a href=https://www.etherfaces.site/>
+        <a href={"https://www.etherfaces.site/"}>
           <StyledLogo alt={"logo"} src={"/config/images/logo_new.png"} />
         </a>
         <s.SpacerSmall />
