@@ -1,18 +1,17 @@
 {
-  "CONTRACT_ADDRESS": "0xd0cf97B30cDEA32b7838dd2Fb6086cb5D35E69bA",
-  "SCAN_LINK": "https://etherscan.io/address/0xd0cf97b30cdea32b7838dd2fb6086cb5d35e69ba",
+  "CONTRACT_ADDRESS": "0x1b9cB2F942221E6CeAef6B2F16FB1A035758aC3A",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1b9cb2f942221e6ceaef6b2f16fb1a035758ac3a",
   "NETWORK": {
-    "NAME": "mainnet",
+    "NAME": "rinkeby",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 4
   },
-  "NFT_NAME": "Etherfaces",
-  "SYMBOL": "ETHR",
-  "MAX_SUPPLY": 8888,
-  "WEI_COST": 6000000000000000,
-  "DISPLAY_COST": 0.006,
-  "GAS_LIMIT": 285000,
+  "NFT_NAME": "Giant Goblins",
+  "SYMBOL": "GIANT",
+  "MAX_SUPPLY": 5500,
+  "WEI_COST": 5500000000000000,
+  "DISPLAY_COST": 0.0055,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/etherfaces-official",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/giantgoblins",
   "SHOW_BACKGROUND": true
 }
