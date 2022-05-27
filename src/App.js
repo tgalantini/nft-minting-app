@@ -271,7 +271,7 @@ function App() {
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
                   1 GIANT COSTS {CONFIG.DISPLAY_COST}{" "}
-                  {CONFIG.NETWORK.SYMBOL}
+                  {CONFIG.NETWORK.SYMBOL} FIRST 500 FREE OUGH
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
