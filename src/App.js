@@ -270,8 +270,7 @@ function App() {
                 <s.TextTitle
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                  1 GIANT COSTS {CONFIG.DISPLAY_COST}{" "}
-                  {CONFIG.NETWORK.SYMBOL} FIRST 1500 FREE OUGH
+                  FREE FREE GIANTS FREE AAAARGH
                 </s.TextTitle>
                 <s.SpacerXSmall />
                 <s.TextDescription
