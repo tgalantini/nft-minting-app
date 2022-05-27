@@ -9,7 +9,7 @@
   "NFT_NAME": "Giant Goblins",
   "SYMBOL": "GIANT",
   "MAX_SUPPLY": 5500,
-  "WEI_COST": 5500000000000000,
+  "WEI_COST": 0,
   "DISPLAY_COST": 0.0055,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/giantgoblins",
